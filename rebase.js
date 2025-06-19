@@ -10,3 +10,8 @@ const c = {
     c: 6,
     c: 9
 }
+
+const d = {
+    c: 3,
+    c: 9
+}
